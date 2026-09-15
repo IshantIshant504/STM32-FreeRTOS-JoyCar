@@ -1,6 +1,12 @@
 # STM32-FreeRTOS-JoyCar
 
-STM32 embedded systems projects developed using Embedded C, STM32 and FreeRTOS.
+STM32 embedded systems projects developed using **Embedded C, STM32 and FreeRTOS**.
+
+The repository covers UART communication, real-time task management, synchronization and runtime analysis using Tracealyzer.
+
+It also includes an integrated autonomous JoyCar system combining sensor integration, motor control and PID-based control.
+
+The projects demonstrate a progression from fundamental embedded concepts to a multi-task real-time application.
 
 ## Projects
 
